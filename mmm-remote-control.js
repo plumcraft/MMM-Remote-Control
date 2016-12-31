@@ -7,7 +7,7 @@
  * MIT Licensed.
  */
 
-Module.register("MMM-Remote-Control", {
+Module.register("mmm-remote-control", {
 
 	requiresVersion: "2.0.0",
 
