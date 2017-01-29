@@ -1,0 +1,1 @@
+{ module: 'mmm-remote-control' };
