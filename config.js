@@ -1,1 +1,1 @@
-{ module: 'mmm-remote-control' };
+{ module: 'mmm-remote-control' }
